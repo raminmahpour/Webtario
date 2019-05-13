@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'mysqldatabase3598' );
 
 /** MySQL database username */
-define( 'DB_USER', 'mysqldbuser' );
+define( 'DB_USER', 'mysqldbuser@myregistration-mysqldbserver' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'pd@lWDes4$Ygazku8y' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'myregistration-mysqldbserver' );
+define( 'DB_HOST', 'myregistration-mysqldbserver.mysql.database.azure.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
